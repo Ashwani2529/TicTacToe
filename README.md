@@ -3,9 +3,9 @@
 
 This is a simple implementation of the classic game Tic Tac Toe built using the Pygame library in Python. The game features a graphical user interface where players can take turns marking X or O on a 3x3 grid. The objective is to get three marks in a row, either horizontally, vertically, or diagonally, before the opponent.
 
- ---------------------------------------------------**Important**----------------------------------------------------------
-**Mobile Application coming soon, run this script in mobile for better experience, it you see blank screen while running it on the PC, you can change the resolution according to your PC And for mobile iif you're unable to run the script because you don't know where to put audio files in your phone, you can just comment out the lines where audio files have been used**
-----------------------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------------------------------
+*Mobile Application coming soon, run this script in mobile for better experience, it you see blank screen while running it on the PC, you can change the resolution according to your PC And for mobile iif you're unable to run the script because you don't know where to put audio files in your phone, you can just comment out the lines where audio files have been used*
+------------------------------------------------------------------------------------------------------------------------------
 
 Features:
 - Graphical user interface using Pygame
